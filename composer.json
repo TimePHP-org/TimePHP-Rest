@@ -5,7 +5,7 @@
     "description": "Rest controller to create api routes",
     "homepage": "https://github.com/TimePHP-org/TimePHP-Rest",
     "keywords": ["TimePHP", "Framework", "PHP", "MVC", "Rest"],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "readme": "https://github.com/TimePHP-org/TimePHP-Rest/blob/master/README.md",
     "support": {
         "email": "timephp.org@gmail.com",
